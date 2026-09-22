@@ -62,3 +62,11 @@ kernel
 gamma
 degree
 epsilon
+
+
+## Author
+
+**Abhilash Bharadwaj**
+
+B.Tech — Civil Engineering  
+National Institute of Technology Silchar
